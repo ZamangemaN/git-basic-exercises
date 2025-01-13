@@ -1,0 +1,462 @@
+    1  git init
+    2  cd C:Users\nenez\AndroidStudioProjects\car_warning_lights
+    3  cd /cd/Users/nenez/AndroidStudioProjects/car_warning_lights
+    4  cd Desktop
+    5  bash cd ~/Desktop
+    6  cd~/Deskotp
+    7  cd /c/Users/nenez/Downloads
+    8  git clone https://github.com/Umuzi-org/Nontobeko-Nene-394-bash-for-bootcamp-.git
+    9  cd Nontobeko-Nene-394-bash-for-bootcamp-
+   10  ls
+   11  ls
+   12  git status
+   13  git commit -m "Added the answers to the gitbash exercise"
+   14  git push origin main
+   15  git status
+   16  git add
+   17  git add question_1.md
+   18  git commit -m "Added question 1"
+   19  git push origin main
+   20  git status
+   21  git add question_2.md
+   22  git commit -m "Added question 1"
+   23  git commit -m "Added question 2"
+   24  git add question_2.md
+   25  git commit -m "Added question 2"
+   26  git add question_2.md
+   27  git commit -m "Added question 2"
+   28  git add question_2.md
+   29  git commit -m "Added question 2"
+   30  git push origin main
+   31  git status
+   32  git add question_3.md
+   33  git commit -m "Added question 3"
+   34  git push origin main
+   35  git status
+   36  git add question_4.md
+   37  git commit -m "Added question 4"
+   38  git push origin main
+   39  git status
+   40  git add question_5.md
+   41  git commit -m "Added question 5"
+   42  git push origin main
+   43  git status
+   44  git add question_6.md
+   45  git commit -m "Added question 6"
+   46  git push origin main
+   47  git add question_7.md
+   48  git commit -m "Added question 7"
+   49  git push origin main
+   50  git add question_8.md
+   51  git commit -m "Added question 8"
+   52  git push origin main
+   53  git add question_9.md
+   54  git commit -m "Added question 9"
+   55  git push origin main
+   56  git add question_10.md
+   57  git commit -m "Added question 10"
+   58  git push origin main
+   59  git add question_11.md
+   60  git commit -m "Added question 11"
+   61  git push origin main
+   62  git add question_12.md
+   63  git commit -m "Added question 12"
+   64  git push origin main
+   65  git add question_13.md
+   66  git commit -m "Added question 13"
+   67  git push origin main
+   68  git status
+   69  cd /c/Users/nenez/Downloads
+   70  pwd
+   71  git clone [200~https://github.com/Umuzi-org/Nontobeko-Nene-585-understanding-the-review-column-.git~
+   72  git clone https://github.com/Umuzi-org/Nontobeko-Nene-585-understanding-the-review-column-.git~
+   73  git clone https://github.com/Umuzi-org/Nontobeko-Nene-585-understanding-the-review-column-.git
+   74  cd Nontobeko-Nene-585-understanding-the-review-column-.git
+   75  cd Nontobeko-Nene-585-understanding-the-review-column-
+   76  git status
+   77  git add question_1.md
+   78  git commit -m "Added answer to question_1"
+   79  git push origin main
+   80  git add question_2.md
+   81  git commit -m "Added answer to question_2"
+   82  git push origin main
+   83  git add question_3.md
+   84  git commit -m "Added answer to question_3"
+   85  git push origin main
+   86  git add question_4.md
+   87  git commit -m "Added answer to question_4"
+   88  git push origin main
+   89  git add question_5.md
+   90  git commit -m "Added answer to question_5"
+   91  git push origin main
+   92  git add question_6.md
+   93  git commit -m "Added answer to question_6"
+   94  git push origin main
+   95  git add question_7.md
+   96  git commit -m "Added answer to question_7"
+   97  git push origin main
+   98  git add question_8.md
+   99  git commit -m "Added answer to question_8"
+  100  git push origin main
+  101  git status
+  102  cd /c/Users/nenez/OneDrive/Desktop
+  103  cd ..
+  104  cd ..
+  105  cd /c/Users/nenez/OneDrive/Desktop/Umuzi Workspace/Javascript level 1 coding challenge
+  106  cd /c/Users/nenez/OneDrive/Desktop/Javascript level 1 coding challenge
+  107  cd /c/Users/nenez/OneDrive/Desktop/Javascript-level1-coding-challenge
+  108  git clone https://github.com/Umuzi-org/Nontobeko-Nene-219-level-1-programming-katas-javascript.git
+  109  cd Nontobeko-Nene-219-level-1-programming-katas-javascript.git
+  110  cd Nontobeko-Nene-219-level-1-programming-katas-javascript
+  111  git checkout main
+  112  git pull
+  113  git checkout -b task/1
+  114  git status
+  115  git add task1.js
+  116  git commit -m "task 1 completed"
+  117  git push origin task/1
+  118  git status
+  119  git checkout task/1
+  120  git checkout main
+  121  git checkout -b task/2
+  122  git status
+  123  git add task2.js
+  124  git status
+  125  git status
+  126  git add task2.js
+  127  git commit -m "task 2 completed"
+  128  git push origin task/2
+  129  git status
+  130  git checkout -b task/3
+  131  git status
+  132  git add task3.js
+  133  git commit -m "task 3 completed"
+  134  git push origin task/3
+  135  git status
+  136  git add task3.js
+  137  git commit -m "task 3 completed"
+  138  git push origin task/3
+  139  git status
+  140  cd /c/Users/nenez/OneDrive/Desktop/Javascript-level1-coding-challenge
+  141  cd /c/Users/nenez/OneDrive/Desktop/Javascript-level1-coding-challenge/Nontobeko-Nene-219-level-1-programming-katas-javascript
+  142  git branch -D task/3
+  143  cd /c/Users/nenez/OneDrive/Desktop/Javascript-level1-coding-challenge
+  144  git branch -D task/3
+  145  git checkout main
+  146  git push origin --delete task/3
+  147  cd /c/Users/nenez/OneDrive/Desktop/Javascript-level1-coding-challenge/Nontobeko-Nene-219-level-1-programming-katas-javascript
+  148  git push origin --delete task/3
+  149  git checkout -b task/3
+  150  git status
+  151  git add task3.js
+  152  git commit -m "task 3 completed"
+  153  git push origin task/3
+  154  git push task/3
+  155  git push origin task/3
+  156  git checkout task/3
+  157  git rm -r --catched .
+  158  rm -rf *
+  159  git status
+  160  git status
+  161  cd /c/Users/nenez/OneDrive/Desktop/Javascript-level1-coding-challenge
+  162  git checkout task/3
+  163  cd /c/Users/nenez/OneDrive/Desktop/Javascript-level1-coding-challenge/Nontobeko-Nene-219-level-1-programming-katas-javascript
+  164  git checkout task/3
+  165  git status
+  166  git checkout -b task/4
+  167  git status
+  168  git add task4.js
+  169  git commit -m "task 4 completed"
+  170  git push origin task/4
+  171  git status
+  172  git checkout task/3
+  173  git status
+  174  git status
+  175  git push origin task/3
+  176  git status
+  177  git restore <file>... 
+  178  git restore <file>
+  179  git restore <task2.js>... 
+  180  git checkout main
+  181  git push origin --delete task/3
+  182  git push origin --delete task/4
+  183  git status
+  184  git checkout -b task/3
+  185  ls
+  186  git branch -d task/3
+  187  git branch -D task/3
+  188  git fetch -p
+  189  git branch
+  190  git push origin --delete task/4
+  191  git push origin --delete task/4
+  192  git branch
+  193  git branch -D task/4
+  194  git fetch -p
+  195  git branch
+  196  git status
+  197  git restore README.md
+  198  git status
+  199  git checkout -b task/3
+  200  git status
+  201  git add task3.md
+  202  git add task3.js
+  203  git commit -m "task 3 completed"
+  204  git push origin task/3
+  205  git checkout -b task/4
+  206  git status
+  207  git reset task3.js
+  208  git status
+  209  git status
+  210  git add task4.js
+  211  git commit -m "task 4 completed"
+  212  git push origin task/4
+  213  git push origin --delete task/4
+  214  git branch -D task/4
+  215  git checkout main
+  216  git branch -D task/4
+  217  git fetch -p
+  218  git branch
+  219  git status
+  220  git checkout -b task/4
+  221  git status
+  222  git status
+  223  git add task4.js
+  224  git commit -m "task 4 completed"
+  225  git push origin task/4
+  226  git status
+  227  git checkout main
+  228  git status
+  229  git checkout -b task/5
+  230  git status
+  231  git add task5.js
+  232  git commit -m "task 5 completed"
+  233  git push origin task/5
+  234  git status
+  235  git status
+  236  git add task5.js
+  237  git commit -m "task 4 modified to be able to print upside down triangle"
+  238  git push origin task/5
+  239  git status
+  240  git status
+  241  git add task5.js
+  242  git commit -m "task 5 modified to be able to print upside down triangle"
+  243  git status
+  244  git add task5.js
+  245  git commit -m "Task 5 updated to make it more concise as previous version had more than 25 lines of code"
+  246  git push origin task/5
+  247  cd /c/Users/nenez/OneDrive/Desktop/Javascript-level1-coding-challenge/Nontobeko-Nene-219-level-1-programming-katas-javascript
+  248  git checkout main
+  249  git branches
+  250  git branche
+  251  git branch
+  252  git status
+  253  git checkout -b task/6
+  254  git status
+  255  git add task6.js
+  256  git commit -m "task 6 completed"
+  257  git push origin task/6
+  258  git status
+  259  git checkout main
+  260  git status
+  261  git checkout -b task/7
+  262  git status
+  263  git add task7.js
+  264  git commit -m "Task 7 completed"
+  265  git push origin task/7
+  266  git status
+  267  cd /c/Users/nenez/Downloads
+  268  git clone https://github.com/Umuzi-org/Nontobeko-Nene-223-person-javascript.git
+  269  cd Nontobeko-Nene-223-person-javascript
+  270  ls
+  271  git status
+  272  git add person.js
+  273  git commit -m "Added person class file"
+  274  git push origin main
+  275  git checkout -b person/class
+  276  git status
+  277  git status
+  278  git add person.js
+  279  git commit -m "Added person class"
+  280  cd Nontobeko-Nene-223-person-javascript
+  281  ls
+  282  cd downlaods
+  283  cd downloads
+  284  ls
+  285  cd Nontobeko-Nene-223-person-javascript
+  286  git status
+  287  ls
+  288  git status
+  289  git status
+  290  git status
+  291  git status
+  292  rm person.js
+  293  git status
+  294  ls
+  295  git rm person.js
+  296  git status
+  297  git branch -D person/class
+  298  git checkout main
+  299  git branch -D person/class
+  300  git status
+  301  git checkout -b person/class
+  302  git status
+  303  git status
+  304  git add person.js
+  305  git commit -m "Added person class"
+  306  git push origin person/class
+  307  git status
+  308  ls
+  309  cd /c/Users/nenez/OneDrive/Desktop/Nontobeko-Nene-219-level-1-programming-katas-javascript
+  310  git checkout task/1
+  311  git status
+  312  git checkout task/1
+  313  git status
+  314  git status
+  315  git add task1.js
+  316  git commit -m "Function calls have been removed and comments were removed as requested."
+  317  git push origin task/1
+  318  git status
+  319  git checkout main
+  320  git checkout task/2
+  321  git checkout task/2
+  322  git status
+  323  git add task2.js
+  324  git commit -m "Function calls have been removed and comments were removed as requested."
+  325  git push origin task/2
+  326  git status
+  327  git checkout main
+  328  git checkout task/2
+  329  git status
+  330  git add task2.js
+  331  git commit -m "Function calls have been removed and comments were removed as requested."
+  332  git push origin task/2
+  333  git status
+  334  git checkout task/3
+  335  git checkout main
+  336  git checkout task/3
+  337  git status
+  338  git add task3.js
+  339  git commit -m "Function calls have been removed and comments were removed as requested."
+  340  git push origin task/3
+  341  git status
+  342  git checkout main
+  343  git status
+  344  git checkout task/4
+  345  git status
+  346  git add task4.js
+  347  git commit -m "Function calls have been removed and comments were removed as requested."
+  348  git push origin task/4
+  349  git status
+  350  git checkout main
+  351  git checkout task/5
+  352  git status
+  353  git status
+  354  git add task5.js
+  355  git commit -m "Function calls have been removed as requested."
+  356  git push origin task/5
+  357  git status
+  358  git checkout main
+  359  git checkout task/6
+  360  git add task6.js
+  361  git commit -m "Function calls have been removed and comments were removed as requested."
+  362  git push origin task/6
+  363  git push origin task/6
+  364  git checkout task/6
+  365  git checkout main
+  366  git checkout task/7
+  367  git add task7.js
+  368  git commit -m "Function calls have been removed and comments were removed as requested."
+  369  git push origin task/7
+  370  git status
+  371  git checkout main
+  372  cd..
+  373  [200~cd /c/Users/nenez/Downloads
+  374  cd /c/Users/nenez/Downloads
+  375  git clone https://github.com/Umuzi-org/Nontobeko-Nene-606-tilde-project-tutorial-how-repo-projects-work-.git
+  376  cd /c/Users/nenez/Downloads/Nontobeko-Nene-606-tilde-project-tutorial-how-repo-projects-work-
+  377  git checkout ZamangemaN-patch-1
+  378  git status
+  379  git add important.md
+  380  git commit -m "Added reasons why the list is empty as requested."
+  381  git push origin ZamangemaN-patch-1
+  382  git status
+  383  cd /c/Users/nenez/Downloads/Nontobeko-Nene-606-tilde-project-tutorial-how-repo-projects-work-
+  384  git status
+  385  git add important.md
+  386  git commit -m "Added list of reviewers as is from Tilde based on the previous review left."
+  387  git push origin ZamangemaN-patch-1
+  388  git status
+  389  cd Nontobeko-Nene-223-person-javascript
+  390  cd C:\Users\nenez\Downloads\Nontobeko-Nene-223-person-javascript
+  391  cd c:\Users\nenez\Downloads\Nontobeko-Nene-223-person-javascript
+  392  cd /c/Users/nenez/Downloads/Nontobeko-Nene-223-person-javascript
+  393  git status
+  394  git status
+  395  git add person.js
+  396  git commiy -m"Test cases removed, and comments too. Also made the necesaary changes so that the output is formated according to what the task asked"
+  397  git commit -m "Test cases removed, and comments too. Also made the necessary changes so that the output is formated according to what the task asked."
+  398  git push origin person/class
+  399  git status
+  400  ls
+  401  mkdir git-basic-exercises
+  402  ls
+  403  cd git-basic-exercises
+  404  ls -a
+  405  git init
+  406  ls -a
+  407  git status
+  408  touch README.md
+  409  ls -a
+  410  git log
+  411  git status
+  412  git add README.md
+  413  git status
+  414  git rm --cached README.md
+  415  git status
+  416  git add README.md
+  417  git status
+  418  git commit -m "Initial commit"
+  419  git log
+  420  q
+  421  git q
+  422  git log
+  423  q
+  424  nano README.md
+  425  nano README.md
+  426  cat README.md
+  427  git status
+  428  git add README.md
+  429  git commit -m "second commit"
+  430  git log
+  431  nano README.md
+  432  git status
+  433  git add README.md
+  434  git commit "third commit"
+  435  git commit -m "third commit"
+  436  git status
+  437  git log
+  438  q
+  439  git checkout
+  440  [200~commit 62de70d300486db6987da5ec2478faf16669b20c
+  441  62de70d300486db6987da5ec2478faf16669b20c
+  442  cat README.md
+  443  git checkout main
+  444  git branch
+  445  git checkout -b milkshake-flavours
+  446  git branch
+  447  cd/..
+  448  git checkout main
+  449  git checkout master
+  450  git checkout milkshake-flavours
+  451  git branch
+  452  nano milkshakes.md
+  453  git status
+  454  git add milkshakes.md
+  455  git commit -m "Added initial flavours"
+  456  git log
+  457  git checkout master
+  458  ls
+  459  git checkout -b history
+  460  git log
+  461  git branch
+  462  history > history.txt
